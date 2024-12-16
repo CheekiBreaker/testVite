@@ -1,0 +1,1 @@
+export const MAIN_CURRENCIES = ['USD', 'EUR', 'GBP', 'CNY'];
